@@ -1,2 +1,3 @@
 hiii
 dssds
+after making getignore file 
